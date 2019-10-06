@@ -3,7 +3,7 @@ title: Oasis
 description: >-
   a jekyll site template for Codrops.
 baseurl: "https://ghosts.wormhole.technology"
-url: ""
+url: "codrops-oasis/"
 twitter_username: jekyllrb
 github_username:  jekyll
 
